@@ -1,5 +1,5 @@
 {
-  "name": "confluence-mcp",
+  "name": "@modinishant26/confluence-mcp",
   "version": "1.0.0",
   "description": "MCP Server for Atlassian Confluence Wiki (Self-Hosted)",
   "main": "dist/index.js",
@@ -20,8 +20,16 @@
     "wiki",
     "model-context-protocol"
   ],
-  "author": "",
+  "author": "Nishant Modi <nimodi@qualys.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/modinishant26/wikimcp.git"
+  },
+  "homepage": "https://github.com/modinishant26/wikimcp#readme",
+  "bugs": {
+    "url": "https://github.com/modinishant26/wikimcp/issues"
+  },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.0.0",
     "axios": "^1.6.0",
