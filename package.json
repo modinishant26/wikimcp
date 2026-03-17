@@ -20,7 +20,7 @@
     "wiki",
     "model-context-protocol"
   ],
-  "author": "Nishant Modi <nimodi@qualys.com>",
+  "author": "Nishant Modi",
   "license": "MIT",
   "repository": {
     "type": "git",
